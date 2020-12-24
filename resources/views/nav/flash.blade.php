@@ -1,0 +1,1 @@
+{{--  {{ LaraFlash::first() }} 	// All notifications  --}}
